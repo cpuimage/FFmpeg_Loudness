@@ -9,7 +9,7 @@ FFmpeg implements the [loudnorm](http://k.ylo.ph/2016/04/04/loudnorm.html) filte
 
 The aim of this standard is to make audio equally loud everywhere.
 
-##Parameters
+## Parameters
 
 When using FFmpeg to normalize audio with the loudnorm filter you can use the following parameters.
 
@@ -32,7 +32,7 @@ With double pass first you scan the media file you want to normalize and then ap
 
 ### Donate
  
-####If the project is useful to you, and you like it, you can buy me a beer.
+#### If the project is useful to you, and you like it, you can buy me a beer.
  
 <figure class="half">
 <img src="https://img2018.cnblogs.com/blog/824862/201809/824862-20180930223557236-1709972421.png" title="Scan QRCode donate me via Alipay" width="150" />
